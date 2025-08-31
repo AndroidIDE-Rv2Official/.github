@@ -12,3 +12,7 @@ AndroidIDE-Rv2 is an Integrated Development Environment (IDE) for Android device
 
 ### Repository info
 - [AndroidIDE-Rv2](https://github.com/Mohammed-baqer-null/AndroidIDE-Rv2) - The main application.
+
+#### About This Project
+This project was initially developed by [@itsaky](https://github.com/itsaky) 
+and is now actively maintained by [@Tom](https://github.com/Mohammed-baqer-null).
