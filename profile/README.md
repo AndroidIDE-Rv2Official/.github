@@ -1,3 +1,7 @@
+> [!WARNING]
+> This organization is for the upcoming **TomRv2IDE** (under development).  
+> It is completely separate from [**AndroidIDE-Rv2**](https://github.com/Mohammed-baqer-null/AndroidIDE-Rv2).  
+> If you are looking for a stable version, consider using [**AndroidIDE-Rv2**](https://github.com/Mohammed-baqer-null/AndroidIDE-Rv2).
 
 <p align="left">
   <img src="https://github.com/Mohammed-Baqer-null/AndroidIDE-Rv2/blob/dev/images/icon.png" alt="AndroidIDE" width="80" height="80"/>
